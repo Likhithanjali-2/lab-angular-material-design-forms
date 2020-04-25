@@ -1,0 +1,27 @@
+
+.header{
+    display: grid;
+    grid-template-columns: 7fr 1fr 1fr;
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+}
+header{
+    font-size: 1.5em;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+.register{
+    font-size: 1em;
+}
+.form{
+    margin-left: 40%;
+    margin-top:5%;
+}
+.submit{
+    width:200px;
+    border:1px solid rgb(216, 46, 88);
+    height: 30px;
+    background-color: white;
+    border-radius: 5px;
+}
